@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/your-username/your-repo-name/static/css/main.b0443d17.css",
+    "main.js": "/your-username/your-repo-name/static/js/main.36495253.js",
+    "static/media/chatBG2.webp": "/your-username/your-repo-name/static/media/chatBG2.8aeec790281423c658be.webp",
+    "static/media/icon.png": "/your-username/your-repo-name/static/media/icon.4c22a7ae7e81d2c6ef99.png",
+    "static/media/puff.svg": "/your-username/your-repo-name/static/media/puff.45f6f6c8c29f8f0f6c9ee50aeb1a41e3.svg",
+    "static/media/oval.svg": "/your-username/your-repo-name/static/media/oval.3b24a6b94b2631f4d565d76f4f7f18d6.svg",
+    "index.html": "/your-username/your-repo-name/index.html",
+    "main.b0443d17.css.map": "/your-username/your-repo-name/static/css/main.b0443d17.css.map",
+    "main.36495253.js.map": "/your-username/your-repo-name/static/js/main.36495253.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0443d17.css",
+    "static/js/main.36495253.js"
+  ]
+}
